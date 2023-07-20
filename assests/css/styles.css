@@ -235,6 +235,9 @@ nav ul li {
   margin: 10px;
 }
 
+.project-status {
+  color: red;
+}
 
 /**********/
 /* Styles */
